@@ -1,0 +1,6 @@
+name: LifeOnDeath
+version: 1.0.0
+main: ru.plugin.lifeondeath.LifeOnDeath
+api-version: 1.20
+author: YourName
+description: При каждой смерти у игрока отнимается максимальное здоровье
